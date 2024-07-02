@@ -18,8 +18,7 @@ export default {
 </script>
 
 <template>
-<h1>Ciao</h1>
-<route-view>
+    <route-view>
 </route-view>
 </template>
 

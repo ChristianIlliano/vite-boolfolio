@@ -14,8 +14,7 @@ components: {
 
 <template>
 <AppHeader/>
-<AppMain/>
-<ProjectCard/>
+<router-view></router-view>
 
 </template>
 
